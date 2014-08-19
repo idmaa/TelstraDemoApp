@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TelstraApp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">About Canada</string>
+    <string name="image">IMG</string>
+    <string name="VTITLE">title</string>
+    <string name="VDESCRIPTION">description</string>
+    <string name="VIMAGE">imageHref</string>
+    <string name="disclosure">rightArrow</string>
+</resources>
